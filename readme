@@ -36,4 +36,4 @@ const server = http.createServe(() => {
 
 # PACTH => Atualizar uma informação específica de um recurso no Back-end.
 
-# DELETE => Deletar um recurso do Back-end.
+# DELETE => Deletar um recurso do Back-end. 
