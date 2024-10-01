@@ -1,0 +1,16 @@
+# 01 FUNDAMENTO NODEJS
+
+INICIAR PROJETO COM COMANDO :
+
+npn init -y  = vai criar package.json
+para que Utilize ESModules => import/export.
+acresentar no package.json  #"type":"module".
+
+# criar primeiro servidor :
+
+import http from 'node:http'
+
+const server = http.createServe(() => {
+
+
+})
