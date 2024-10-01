@@ -1,5 +1,7 @@
 import http from 'node:http'
-const server = http.createServe((req, res) => {
+
+// Criando um Servidor HTTP com Node.js
+const server = http.createServer((req, res) => {
     return res.end('Hello World')
     
 
