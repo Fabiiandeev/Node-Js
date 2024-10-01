@@ -11,6 +11,29 @@ acresentar no package.json  #"type":"module".
 import http from 'node:http'
 
 const server = http.createServe(() => {
-
-
 })
+
+// ==== Rotas De Criação e listagem === //
+
+#criar Usuários
+#Listagem Usuários
+#Edição de Usuários
+#Remoção de Usuários
+
+// ============================== //
+
+- HTTP 
+- MÉTODO HTTP
+- URL
+
+// GET, POST, PUT ,  PATCH, DELETE.
+
+# GET => Buscar uma informação do back-end.
+
+# POST => Criar uma Informação.
+
+# PUT => Atualizar um recurso no Back-end.
+
+# PACTH => Atualizar uma informação específica de um recurso no Back-end.
+
+# DELETE => Deletar um recurso do Back-end.
